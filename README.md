@@ -6,7 +6,10 @@ This application is unfinished and is currently being worked on. The code has ye
 
 The primary colors of the application are blue and white, representing colors used by Google, because the application is built using the Google Maps API. Future colors and themes may or may not be available.
 
-This application is not meant to replace Google Maps, but instead be used with it upon completion. 
+This application is not meant to replace Google Maps, but instead be used with it upon completion.
+
+## Video Demo Example
+https://youtu.be/BQ0yNzBzeZ4
 
 
 
