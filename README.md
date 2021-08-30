@@ -9,7 +9,7 @@ The primary colors of the application are blue and white, representing colors us
 This application is not meant to replace Google Maps, but instead be used with it upon completion.
 
 ## Video Demo Example
-[![Alt text for your video](https://youtu.be/BQ0yNzBzeZ4)
+[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO-ID)
 
 
 
