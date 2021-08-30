@@ -1,5 +1,5 @@
 # Steppesaway
-### Working title
+#### -- Working title --
 An open-source web application designed for tourists to optimally plan travel between desired locations, and the modes of travel between those locations. The name comes from "steppe" which is a grassland plain found all aover the world, and "away" which indicates getting "away" from familiarity and exploring new places. We are only Steppesaway from planning our dream vacation locations. This was built with functionality and help provided by the Google Maps API and its documentation.
 
 ## Work in Progress
