@@ -12,6 +12,7 @@ This application is not meant to replace Google Maps, but instead be used with i
 ## Main Software and Dependencies
 - Google Maps API
 - Flask (may switch to Django)
+- jQuery (may discontinue for this application)
 
 ## Video Demo Example
 ### Demonstrates the use of the developer's own algoirthm to solve the TSP rather than Google's. 
