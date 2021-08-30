@@ -9,7 +9,7 @@ The primary colors of the application are blue and white, representing colors us
 This application is not meant to replace Google Maps, but instead be used with it upon completion.
 
 ## Video Demo Example
-[![Alt text for your video](https://github.com/AugdenES/tourist-travel-planning-app/blob/main/Search%20Locations.mov)
+[![Alt text for your video](https://youtu.be/BQ0yNzBzeZ4)
 
 
 
