@@ -1,4 +1,5 @@
 # Steppesaway
+### Working title
 An open-source web application designed for tourists to optimally plan travel between desired locations, and the modes of travel between those locations. The name comes from "steppe" which is a grassland plain found all aover the world, and "away" which indicates getting "away" from familiarity and exploring new places. We are only Steppesaway from planning our dream vacation locations. This was built with functionality and help provided by the Google Maps API and its documentation.
 
 ## Work in Progress
@@ -9,6 +10,7 @@ The primary colors of the application are blue and white, representing colors us
 This application is not meant to replace Google Maps, but instead be used with it upon completion.
 
 ## Video Demo Example
+### Notice the title of the webpage is called "Interactive TSP Solver" because it a solution to the Traveling Salesman Prolem. This is a working title.
 [![Alt text for your video](https://i9.ytimg.com/vi/BQ0yNzBzeZ4/sddefault.jpg?v=612d29fb&sqp=CLjjtIkG&rs=AOn4CLC9Yc7pBqLqTKlo_3N-jyfU046fsg)](https://youtu.be/BQ0yNzBzeZ4)
 
 
